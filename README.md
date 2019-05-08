@@ -1,0 +1,2 @@
+# Kiwibot
+These are two programs for the VexIQ kiwi robot. The non-teleop program has the robot drive in a direction until it hits something than goes in another random direction. The teleop program allows the user to control the robots direction with the left joystick and turn the base direction of the robot with the right one. Speed is controlled by the up/down buttons on the right side of the controller below the joystick.
